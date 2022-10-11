@@ -3,9 +3,17 @@ hello
 hiii
 munuya
 jena
+<<<<<<< HEAD
 
 gjhvbkl;
 gvjhbkjl/;
 1
 amiya
 hena
+=======
+jena1
+gjhvbkl;
+gvjhbkjl/;
+1
+
+>>>>>>> 659761fd5a8f96708cea01259c0b65c57a6bf0e1
